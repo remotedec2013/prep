@@ -169,6 +169,9 @@
     <None Include="build\tools\Rake\lib\ruby\site_ruby\1.8\yamler.rb" />
     <None Include="build\tools\Rake\lib\ruby\site_ruby\1.8\yamler\template.rb" />
     <None Include="build\tools\Rake\lib\ruby\site_ruby\1.8\yamler\yamler.rb" />
+    <None Include="change" />
+    <None Include="continuous_testing" />
+    <None Include="fetch_branch" />
     <None Include="fetch_latest" />
     <None Include="Gemfile" />
     <None Include="git_utils.rb" />
@@ -176,7 +179,9 @@
     <None Include="rakefile.rb" />
     <None Include="run_first" />
     <None Include="save_my_changes" />
+    <None Include="specs" />
     <None Include="start_new_exercise" />
+    <None Include="trash" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
